@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ElegantFalcon
 - 👀 I’m interested in Web development,Arduino,Raspberry Pi
-- 🌱 I’m currently learning bootsrtap
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning bootstrap 
 
 <!---
 ElegantFalcon/ElegantFalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
