@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ElegantFalcon
+- 👋 Hi, I’m Nikhil M
 - 👀 I’m interested in Web development,Arduino,Raspberry Pi
-- 🌱 I’m currently learning bootstrap 
+- 🌱 I’m currently learning ReactJs
 
 <!---
 ElegantFalcon/ElegantFalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
