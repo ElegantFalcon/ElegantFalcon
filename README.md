@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ReactJS<br><br>👨‍💻 All of my projects are available at https://github.com/ElegantFalcon?tab=repositories<br><br>💬 Ask me about Arduino,Python,JavaScript<br><br>📫 How to reach me : nikhil.mecheril@gmail.com
+🌱 I’m currently learning ReactJS<br><br>👨‍💻 All of my projects are available at https://github.com/ElegantFalcon?tab=repositories<br><br>💬 Ask me about : Arduino,Python,JavaScript<br><br>📫 How to reach me : nikhil.mecheril@gmail.com
 
 
 ## 🌐 Socials:
